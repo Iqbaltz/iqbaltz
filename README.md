@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on web3 projects
+- 🌱 I’m currently learning basic of deep learning
 <!--
 **Iqbaltz/iqbaltz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
