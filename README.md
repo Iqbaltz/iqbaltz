@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Frontend Developer
-![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)
+#### I'm a Front-end Developer 😄
 
 <!--
 **Iqbaltz/iqbaltz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
