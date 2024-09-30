@@ -2,6 +2,9 @@
 
 I'm a Front-end Developer based in Medan, Indonesia. I've done work as a freelancer, work for agencies, and collaborated with talented people to create digital products for both business and consumer use. I'm quietly confident, naturally curious, and perpetually working on improving my skills on one code problem at a time.
 
+- 🔭 I’m currently working on ERP For HR Management
+- 🌱 I’m currently learning Machine Learning
+- 👯 I’m looking to collaborate on side project that can leverage my software engineer skills
 <!--
 **Iqbaltz/iqbaltz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
