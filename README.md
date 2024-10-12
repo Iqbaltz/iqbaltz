@@ -5,6 +5,7 @@ I'm a Front-end Developer based in Medan, Indonesia. I've done work as a freelan
 - 🔭 I’m currently working on ERP For HR Management
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on side project that can leverage my software engineer skills
+- 🔪 My favorite tools for cooking web application is React (Next.JS) with Typescript, TailwindCSS for the UI, and Laravel for the backend. I also had mastered other tools such as: C# .NET MVC, Jquery, and SQL
 <!--
 **Iqbaltz/iqbaltz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
