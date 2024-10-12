@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi👋
 
 I'm a Front-end Developer based in Medan, Indonesia. I've done work as a freelancer, work for agencies, and collaborated with talented people to create digital products for both business and consumer use. I'm quietly confident, naturally curious, and perpetually working on improving my skills on one code problem at a time.
 
