@@ -2,7 +2,7 @@
 
 I'm a Fullstack Developer based in Medan, Indonesia. I've done work as a freelancer, work for agencies, work for corporate, and collaborated with talented people to create digital products for both business and consumer use. I'm quietly confident, naturally curious, and perpetually working on improving my skills on one code problem at a time.
 
-- 🔭 I’m currently working on ERP For HR Management
+- 🔭 I’m Self-Service Point of Sale
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on side project that can leverage my software engineer skills
 - 🔪 My favorite tools for cooking web application is React (Next.JS) with Typescript, TailwindCSS for the UI, and Laravel for the Backend. But I also had mastered other tools such as: C# .NET MVC, Jquery, and SQL
