@@ -1,6 +1,6 @@
 ### What's up!👋
 
-I'm a Fullstack Developer based in Jakarta, Indonesia. I've done work as a freelancer, work for agencies, work for corporate, and collaborated with talented people to create digital products for both business and consumer use. I'm quietly confident, naturally curious, and perpetually working on improving my skills on one code problem at a time.
+I'm a Fullstack Developer based in Jakarta, Indonesia. I've done work as a freelancer, work for agencies, work for companies, and collaborated with talented people to create digital products for both business and consumer use. I'm quietly confident, naturally curious, and perpetually working on improving my skills on one code problem at a time.
 
 - 🔭 I’m Self-Service Point of Sale
 - 🌱 I’m currently learning Machine Learning
